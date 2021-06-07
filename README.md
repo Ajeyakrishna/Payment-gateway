@@ -1,3 +1,3 @@
 # Payment-gateway
  
- Hosting link : https://krrish-payment.000webhostapp.com/
+ Website : https://krrish-payment.000webhostapp.com/
