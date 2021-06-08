@@ -1,6 +1,11 @@
 # Payment-gateway
  
- Website : https://krrish-payment.000webhostapp.com/
+Website : https://krrish-payment.000webhostapp.com/
+ 
+PAYMENT GATEWAY INTEGRATION TASK3 #THESPARKFOUNDATION #GRIPJUNE21
+ 
+ # DESCRIPTION:
+ A payment gateway is a technology used for donating specific amount of money directly to the needed
  
  PAYMENT GATEWAY INTEGRATION TASK3 #THESPARKFOUNDATION #GRIPJUNE21
  
@@ -9,3 +14,7 @@
 ![Screenshot (41)](https://user-images.githubusercontent.com/58252053/121161024-38cd4f80-c86a-11eb-9f2d-a804abb9798a.png)
 ![Screenshot (42)](https://user-images.githubusercontent.com/58252053/121161044-3b2fa980-c86a-11eb-81c0-6167cce8ba73.png)
 
+# TECHNOLOGIES
+1.HTML
+2.CSS
+3.JAVA SCRIPT
